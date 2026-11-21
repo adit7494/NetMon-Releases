@@ -4,7 +4,7 @@ NetMon is a network speed monitor and data usage tracker for Windows 10 and 11.
 See live download and upload speeds on your desktop or taskbar, check which apps are using bandwidth,
 and review connection problems after they happen.
 
-[**Download NetMon v0.3.1 for Windows x64**](https://github.com/adit7494/NetMon-Releases/releases/download/v0.3.1/NetMon-Setup-0.3.1.exe)
+[**Download NetMon v0.4.0 for Windows x64**](https://github.com/adit7494/NetMon-Releases/releases/download/v0.4.0/NetMon-Setup-0.4.0.exe)
 · [Latest release and notes](https://github.com/adit7494/NetMon-Releases/releases/latest)
 
 ## What you can monitor
@@ -14,9 +14,12 @@ and review connection problems after they happen.
 - **Bandwidth by app and network.** See estimated usage by app and recorded totals by Windows
   network profile, such as your home or work Wi-Fi.
 - **Connection quality.** Track latency, jitter, and packet loss. Open the connection log to review
-  outages and periods of high latency.
+  outages and periods of high latency. Diagnose the connection to check the gateway, DNS, and
+  two internet targets, then copy results with network names and addresses omitted.
 - **Monthly data usage.** Set a data limit and billing day to see usage for your billing cycle and
-  your remaining daily budget. If your plan renews on the 15th, set **Settings → Data plan → Billing day** to `15`.
+  your remaining daily budget. Use **Settings → Data plan → Billing day** to match your renewal date.
+  Set a limit for a specific network and get alerts at 80% and 100%.
+  Compare the same number of days in consecutive billing cycles.
 - **Reports and backups.** Export usage history to CSV or generate a PDF report for a selected date
   range. NetMon can make automatic backups and copy them to a folder you choose.
 
