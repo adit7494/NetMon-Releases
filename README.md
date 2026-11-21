@@ -4,7 +4,7 @@ NetMon is a network speed monitor and data usage tracker for Windows 10 and 11.
 See live download and upload speeds on your desktop or taskbar, check which apps are using bandwidth,
 and review connection problems after they happen.
 
-[**Download NetMon v0.3.0 for Windows x64**](https://github.com/adit7494/NetMon-Releases/releases/download/v0.3.0/NetMon-Setup-0.3.0.exe)
+[**Download NetMon v0.3.1 for Windows x64**](https://github.com/adit7494/NetMon-Releases/releases/download/v0.3.1/NetMon-Setup-0.3.1.exe)
 · [Latest release and notes](https://github.com/adit7494/NetMon-Releases/releases/latest)
 
 ## What you can monitor
